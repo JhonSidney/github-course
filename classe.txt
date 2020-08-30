@@ -1,2 +1,3 @@
-git class
-teste2
+estudando git 
+realizando teste
+linha 3
