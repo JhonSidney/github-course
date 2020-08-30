@@ -1,3 +1,4 @@
 estudando git 
 realizando teste
-linha 3
+voce pode ajudar a ensinar e aprender.
+Este repositorio é para aprendizado 
